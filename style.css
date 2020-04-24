@@ -1,0 +1,23 @@
+.block{
+	position: absolute;
+	display: inline-block;
+	width: 25%;
+	height: 15%;
+	border-style: solid;
+	background-color: rgb(9,247,157);
+	top:30%;
+	border-color: lightblue;
+	font-family: 'Gochi Hand', cursive;
+}
+	#boxy{
+	position: absolute;
+}
+button{
+	font-size: 100%;
+}
+body{
+	background-image: url("https://scontent.fhan3-3.fna.fbcdn.net/v/t1.15752-9/93954932_260494698327057_1202575054580219904_n.jpg?_nc_cat=106&_nc_sid=b96e70&_nc_oc=AQnFztfkRr7R8OKnhIx-zaAXTKcD5oDinyWAawCWmBcyQy2jHwiekXwTomBBlmZOceWI-AN1TmG4RJDfXvy8zM9z&_nc_ht=scontent.fhan3-3.fna&oh=7c089c19f6ba720b62ecf46c5e90c29b&oe=5EC7A022");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 1%;
+}
