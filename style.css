@@ -5,12 +5,17 @@
 	height: 15%;
 	border-style: solid;
 	background-color: rgb(9,247,157);
-	text-outline: 25px;%;
 	border-color: lightblue;
 	font-family: 'Gochi Hand', cursive;
 }
 	#boxy{
 	position: absolute;
+}
+p{
+	position: absolute;
+	margin-top: 20%;
+	height: 15%;
+	width: 15%;
 }
 button{
 	font-size: 100%;
