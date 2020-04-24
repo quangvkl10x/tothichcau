@@ -1,11 +1,11 @@
 .block{
 	position: absolute;
 	display: inline-block;
-	width: 25%;
+	width: 22%;
 	height: 15%;
 	border-style: solid;
 	background-color: rgb(9,247,157);
-	top:30%;
+	text-outline: 25px;%;
 	border-color: lightblue;
 	font-family: 'Gochi Hand', cursive;
 }
